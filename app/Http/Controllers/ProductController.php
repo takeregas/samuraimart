@@ -16,13 +16,21 @@ class ProductController extends Controller
      */
     public function index(Request $request)
     {
-        $products = Product::paginate(15);
+        if ($request->category !== null) {
+             $products = Product::where('category_id', $request->category)->paginate(15);
+             $total_count = Product::where('category_id', $request->category)->count();
+             $category = Category::find($request->category);
+         } else {
+             $products = Product::paginate(15);
+             $total_count = "";
+             $category = null;
+         }
 
-        $categories = Category::all();
- 
-        return view('products.index', compact('products', 'categories'));
+        $major_category_names = Category::pluck('major_category_name')->unique();
+
+        return view('products.index', compact('products', 'category', 'categories', 'major_category_names', 'total_count'));
     }
-    
+
     public function favorite(Product $product)
      {
          $user = Auth::user();
