@@ -35,7 +35,7 @@ class ProductController extends Controller
  
          return redirect()->route('products.show', $product);
      }
-
+     
 
     /**
      * Show the form for creating a new resource.
