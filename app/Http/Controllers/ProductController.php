@@ -43,6 +43,7 @@ class ProductController extends Controller
              '出品の新しい順' => 'updated_at desc'
          ];
 
+        $categories = Category::all();
         $major_category_names = Category::pluck('major_category_name')->unique();
 
         return view('products.index', compact('products', 'category', 'categories', 'major_category_names', 'total_count', 'sort', 'sorted'));
