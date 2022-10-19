@@ -11,13 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'WebController@index');
 
   Route::get('users/carts', 'CartController@index')->name('carts.index');
 
   Route::post('users/carts', 'CartController@store')->name('carts.store');
+  
+  Route::delete('users/carts', 'CartController@destroy')->name('carts.destroy');
 
   Route::get('users/mypage', 'UserController@mypage')->name('mypage');
   Route::get('users/mypage/edit', 'UserController@edit')->name('mypage.edit');
@@ -28,11 +28,11 @@ Route::get('/', function () {
   Route::put('users/mypage/password', 'UserController@update_password')->name('mypage.update_password');
 
 
-Route::post('products/{product}/reviews', 'ReviewController@store');
+  Route::post('products/{product}/reviews', 'ReviewController@store');
  
   Route::get('products/{product}/favorite', 'ProductController@favorite')->name('products.favorite');
 
-Route::resource('products', 'ProductController');
-Auth::routes(['verify' => true]);
+  Route::resource('products', 'ProductController');
+  Auth::routes(['verify' => true]);
 
-Route::get('/home', 'HomeController@index')->name('home');
+  Route::get('/home', 'HomeController@index')->name('home');
