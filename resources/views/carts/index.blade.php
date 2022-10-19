@@ -67,7 +67,7 @@
              <button type="submit" class="btn samuraimart-submit-button disabled">購入を確定する</button>
              @endif
          </form>
-         
+         <!--test-->
     </div>
 </div>
 @endsection
