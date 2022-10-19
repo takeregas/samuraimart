@@ -67,7 +67,7 @@ class CartController extends Controller
         if ($request->input('delete')) {
             Cart::instance(Auth::user()->id)->remove($request->input('id'));
         } else {
-            Cart::instance(Auth::user()->id)->update($request->input('id'), $request->input('qty')));
+            Cart::instance(Auth::user()->id)->update($request->input('id'), $request->input('qty'));
         }
 
         return redirect()->route('cart.index');
