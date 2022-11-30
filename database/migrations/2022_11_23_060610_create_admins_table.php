@@ -25,7 +25,7 @@ class CreateAdminsTable extends Migration
     }
 
     /**
-     * Reverse the migrations.
+     * Reverse the migratioINns.
      *
      * @return void
      */
