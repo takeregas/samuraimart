@@ -44,6 +44,7 @@ Route::get('/', 'WebController@index');
       Route::post('login', 'Dashboard\Auth\LoginController@login')->name('login');
   });
 
+
   if (env('APP_ENV') === 'production') {
       URL::forceScheme('https');
   }

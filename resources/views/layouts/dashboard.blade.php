@@ -25,6 +25,7 @@
 <body>
     <div id="app">
 
+
         @component('components.dashboard.header')
         @endcomponent
 
@@ -34,7 +35,8 @@
                 @component('components.dashboard.sidebar')
                 @endcomponent
             </div>
-            @endauth
+
+         @endauth
             <div class="col">
                 <main class="py-4 mb-5">
                     @yield('content')
