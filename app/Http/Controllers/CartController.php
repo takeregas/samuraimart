@@ -16,9 +16,15 @@ class CartController extends Controller
      */
     public function index()
     {
-        $cart = Cart::instance(Auth::user()->id)->content();
-
-        return view('carts.index', compact('cart'));
+         $cart = Cart::instance(Auth::user()->id)->content();
+ 
+         $total = 0;
+ 
+         foreach ($cart as $c) {
+             $total += $c->qty * $c->price;
+         }
+ 
+         return view('carts.index', compact('cart', 'total'));
     }
 
     /**
