@@ -19,6 +19,9 @@
     <h2>顧客管理</h2>
     <div class="d-flex flex-column">
         <label class="samuraimart-sidebar-category-label">顧客一覧</label>
+        <label class="samuraimart-sidebar-category-label">
+            <a href="/dashboard/users">顧客一覧</a>
+        </label>
 
     </div>
 
