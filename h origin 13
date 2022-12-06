@@ -1,0 +1,312 @@
+[33mcommit 5845df34bded2878c4db2297989febcc9cc55c3a[m[33m ([m[1;36mHEAD -> [m[1;32m13[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Dec 4 13:25:27 2022 +0000
+
+    13
+
+[33mcommit 4402a9b085401aa4dd11cbb54502c71a15c24673[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 39788c8 dcdf833
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Sun Dec 4 18:35:23 2022 +0900
+
+    Merge pull request #12 from takeregas/12
+    
+    12
+
+[33mcommit dcdf8336da8fbc163d64f1d66a1aaefa56c42f79[m[33m ([m[1;31morigin/12[m[33m, [m[1;32m12[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Dec 4 09:34:27 2022 +0000
+
+    12
+
+[33mcommit 39788c8c4771e2dce65ae48f25197981841314dd[m
+Merge: c8536a2 0682855
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Sun Dec 4 18:03:53 2022 +0900
+
+    Merge pull request #11 from takeregas/11
+    
+    11
+
+[33mcommit 0682855002df13bd57801df68843cbf75aef874b[m[33m ([m[1;31morigin/11[m[33m, [m[1;32m11[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Dec 4 09:01:32 2022 +0000
+
+    11
+
+[33mcommit c8536a2ce0ecee1783e76bacb2cc253ac4c1d0bd[m
+Merge: 0856ff4 e36bd53
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Sun Dec 4 16:53:36 2022 +0900
+
+    Merge pull request #10 from takeregas/10
+    
+    10
+
+[33mcommit e36bd5389d8405ec3fee062296474264454ddaa4[m[33m ([m[1;31morigin/10[m[33m, [m[1;32m10[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Dec 4 07:52:29 2022 +0000
+
+    10
+
+[33mcommit 0856ff477f9130e255519242567918d4df338bca[m
+Merge: 2a44e9b 9d1ccd1
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Sun Dec 4 14:44:09 2022 +0900
+
+    Merge pull request #9 from takeregas/9
+    
+    9
+
+[33mcommit 9d1ccd19f218327de1b0e18d60a09f3a4d14af78[m[33m ([m[1;31morigin/9[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Dec 4 05:40:56 2022 +0000
+
+    9
+
+[33mcommit 2a44e9bcbe03ff054329a99697cb0b91fce33195[m
+Merge: 265533c 239e96d
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Sun Dec 4 11:48:50 2022 +0900
+
+    Merge pull request #8 from takeregas/8
+    
+    8
+
+[33mcommit 239e96d864ad6b9c8709e9378b116f67a99b9cbe[m[33m ([m[1;31morigin/8[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Dec 4 02:47:03 2022 +0000
+
+    8
+
+[33mcommit 265533cfb35f8958326a482bb9d8d75939bc5b9d[m
+Merge: 75d434b ce7407e
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Nov 30 22:41:49 2022 +0900
+
+    Merge pull request #7 from takeregas/7
+    
+    7
+
+[33mcommit ce7407e781f06e1da4711f166c9fb11cdf524205[m[33m ([m[1;31morigin/7[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Nov 30 13:40:16 2022 +0000
+
+    7
+
+[33mcommit 75d434b95768d193fa47b1e3afdfe98151bafda7[m
+Merge: d49158c 9529d71
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Nov 30 22:10:09 2022 +0900
+
+    Merge pull request #6 from takeregas/6-3
+    
+    6-3
+
+[33mcommit 9529d718907a43edd03bbec32e1d11b090c12a85[m[33m ([m[1;31morigin/6-3[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Nov 30 13:08:42 2022 +0000
+
+    6-3
+
+[33mcommit d49158cc3bea5d99049ab46294d9331a2eb19be5[m
+Merge: aeb8ca0 4d5a25b
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Nov 30 21:45:23 2022 +0900
+
+    Merge pull request #5 from takeregas/6-1
+    
+    6 1
+
+[33mcommit 4d5a25bcf6ae29f6f16ea8a1797b7c7e23b7b11b[m
+Merge: 5ed1dd2 aeb8ca0
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Nov 30 21:45:15 2022 +0900
+
+    Merge branch 'master' into 6-1
+
+[33mcommit aeb8ca0aa21664c8b0c958b2c76fb36e1266dff6[m
+Merge: 20d7a76 9279c05
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Nov 30 21:38:58 2022 +0900
+
+    Merge pull request #4 from takeregas/5
+    
+    5
+
+[33mcommit 20d7a762126449a93f9ccaf24d5f6ea56a88876f[m
+Merge: 7859760 bf86f32
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Nov 30 21:34:34 2022 +0900
+
+    Merge pull request #3 from takeregas/2-1
+    
+    2-1
+
+[33mcommit 7859760f5fe6490b4c1e0bbe1b91a6389a2a390b[m
+Merge: 7eae1ab 0b3f384
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Nov 30 21:31:42 2022 +0900
+
+    Merge pull request #2 from takeregas/1-1
+    
+    1-1
+
+[33mcommit 5ed1dd2073099ddd7d70ed21f4767e643f51c260[m[33m ([m[1;31morigin/6-1[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Thu Nov 24 12:56:39 2022 +0000
+
+    6-1
+
+[33mcommit c8ee86fa6bd5e8ecdf654c6c7e59d11b63318bab[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Nov 23 07:07:10 2022 +0000
+
+    6-1
+
+[33mcommit 9279c0501d72777921ff235af626bc6bbf3f7a0c[m[33m ([m[1;31morigin/5[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sat Nov 19 14:31:37 2022 +0000
+
+    5
+
+[33mcommit bf86f32dcaa3fddc63100fa832f6513a00179e47[m[33m ([m[1;31morigin/2-1[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Nov 16 23:00:17 2022 +0000
+
+    2-1
+
+[33mcommit 0b3f384ca47615e92301e7897590ea7054af4310[m[33m ([m[1;31morigin/1-1[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Nov 16 13:10:23 2022 +0000
+
+    1-1
+
+[33mcommit 7eae1ab308ed2bd42ed8b56b57097d1dd40d90a0[m
+Merge: 25e2c90 49024b9
+Author: takeregas <108242711+takeregas@users.noreply.github.com>
+Date:   Wed Oct 19 21:39:03 2022 +0900
+
+    Merge pull request #1 from takeregas/test
+    
+    テスト
+
+[33mcommit 49024b92462f2c058f2c9c1b68da5d2ab7d00c13[m[33m ([m[1;31morigin/test[m[33m)[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Oct 19 12:30:30 2022 +0000
+
+    テスト
+
+[33mcommit 25e2c9099ec58effd51a24321ef27e6140d1531e[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Oct 19 12:15:59 2022 +0000
+
+    )を削除
+
+[33mcommit 225b2713f367472df9cdb398cf84357d1c3934a6[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Wed Oct 19 09:51:39 2022 +0000
+
+    22
+
+[33mcommit ccb953a489b014d79980843ce3c41a35b56b71f0[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Oct 16 11:51:53 2022 +0000
+
+    18
+
+[33mcommit c8cc46e8b944862053d0f646da55f7d10bf778ef[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Oct 16 11:06:51 2022 +0000
+
+    17
+
+[33mcommit e1fbd521975d85d91dc0c2ae0f88af9f742d1386[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Oct 16 10:56:42 2022 +0000
+
+    16
+
+[33mcommit 1d6d91856fbbab7518376718b8c41853c7670cb0[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Oct 16 10:42:25 2022 +0000
+
+    15
+
+[33mcommit 4768d8e798450288d9ac8c56708b2918989cb781[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Oct 9 04:38:30 2022 +0000
+
+    master
+
+[33mcommit 690952ba20c728d38e3298d3865182a22af30269[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sun Oct 9 04:25:14 2022 +0000
+
+    08 add footer
+
+[33mcommit 6081d8417c880fdc796c66550fa2f90213499ea7[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Tue Oct 4 23:59:16 2022 +0000
+
+    13
+
+[33mcommit b33bc3c50542784c668d795ddd0045cefc15ccfd[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Tue Oct 4 23:08:00 2022 +0000
+
+    12
+
+[33mcommit 9de6284a9306af77289574234561a35353aa33a4[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Tue Oct 4 23:02:28 2022 +0000
+
+    11
+
+[33mcommit d97009489dbd5055f59fe3ba6163422b02a7ae3a[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Mon Oct 3 23:21:54 2022 +0000
+
+    09 create reviews
+
+[33mcommit 4caa404b9daa54ad61e85fd8130c0ceac4852ae1[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Mon Oct 3 22:18:25 2022 +0000
+
+    08 add footer
+
+[33mcommit e20afe93abc8e0769bd1b3a1b8f73d2c9ff13360[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sat Oct 1 11:10:43 2022 +0000
+
+    07 add header
+
+[33mcommit b25f262680d55383f9e2336172369a2fc33fd247[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sat Oct 1 10:32:44 2022 +0000
+
+    06 use css framework
+
+[33mcommit 2b51c9b8bc961f6a6b024cf018e95bc99848b693[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Thu Sep 29 15:33:13 2022 +0000
+
+    05 create login system
+
+[33mcommit 73e00b7139d377257c3b5c736af86cd1de04a3cd[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Tue Sep 27 00:00:31 2022 +0000
+
+    04 create products table
+
+[33mcommit 55f31d00ee9d54efe6cced9d2104f228a0e62b4c[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sat Sep 24 13:21:52 2022 +0000
+
+    03 create categories table
+
+[33mcommit bd5c2b414f19a31c1693004f5fff532d354ae24a[m
+Author: “takeregas” <takeregas.chelsea@gmail.com>
+Date:   Sat Sep 24 01:59:21 2022 +0000
+
+    first commit
