@@ -64,7 +64,7 @@ class MajorCategoryController extends Controller
      */
     public function show(MajorCategory $majorCategory)
     {
-        return view('dashboard.major_categories.edit', compact('major_category'));
+        //
     }
 
     /**
@@ -75,6 +75,19 @@ class MajorCategoryController extends Controller
      */
     public function edit(MajorCategory $majorCategory)
     {
+        return view('dashboard.major_categories.edit', compact('major_category'));
+    }
+    
+    /**
+     * Update the specified resource in storage.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \App\MajorCategory  $majorCategory
+     * @return \Illuminate\Http\Response
+     */
+    public function update(Request $request, MajorCategory $major_category)
+    {
+        
         $request->validate([
             'name' => 'required|unique:major_categories',
             'description' => 'required',
