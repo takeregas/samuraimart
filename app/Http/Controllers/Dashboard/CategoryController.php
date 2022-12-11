@@ -21,7 +21,6 @@ class CategoryController extends Controller
         $major_categories = MajorCategory::all();
  
         return view('dashboard.categories.index', compact('categories', 'major_categories'));
-      }
     }
 
 
@@ -108,3 +107,4 @@ class CategoryController extends Controller
         return redirect("/dashboard/categories");
     }
 }
+
