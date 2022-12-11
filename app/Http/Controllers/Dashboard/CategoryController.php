@@ -47,9 +47,9 @@ class CategoryController extends Controller
         $category->name = $request->input('name');
         $category->description = $request->input('description');
         $category->major_category_id = $request->input('major_category_id');
-         $category->major_category_name = MajorCategory::find($request->input('major_category_id'))->name;
+        $category->major_category_name = MajorCategory::find($request->input('major_category_id'))->name;
         $category->save();
-
+        
         return redirect("/dashboard/categories");
     }
 
@@ -91,7 +91,7 @@ class CategoryController extends Controller
         $category->major_category_id = $request->input('major_category_id');
         $category->major_category_name = MajorCategory::find($request->input('major_category_id'))->name;
         $category->update();
- 
+        
         return redirect("/dashboard/categories");
     }
 

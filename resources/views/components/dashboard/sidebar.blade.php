@@ -1,7 +1,9 @@
 <div class="container ml-3">
     <h2>受注管理</h2>
     <div class="d-flex flex-column">
-        <label class="samuraimart-sidebar-category-label">受注一覧</label>
+        <label class="samuraimart-sidebar-category-label">
+            <a href="/dashboard/orders">受注一覧</a>
+        </label>
     </div>
 
     <h2>商品管理</h2>
@@ -9,9 +11,15 @@
         <label class="samuraimart-sidebar-category-label">
             <a href="/dashboard/products">商品一覧</a>
         </label>
-        <label class="samuraimart-sidebar-category-label">親カテゴリ管理</label>
-        <label class="samuraimart-sidebar-category-label">カテゴリ管理</label>
-        <label class="samuraimart-sidebar-category-label">CSV一括登録</label>
+        <label class="samuraimart-sidebar-category-label">
+            <a href="/dashboard/major_categories">親カテゴリ管理</a>
+        </label>
+        <label class="samuraimart-sidebar-category-label">
+            <a href="/dashboard/categories">カテゴリ管理</a>
+        </label>
+        <label class="samuraimart-sidebar-category-label">
+            <a href="/dashboard/products/import/csv">CSV一括登録</a>
+        </label>
     </div>
 
     <h2>顧客管理</h2>
